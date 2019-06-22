@@ -1,0 +1,46 @@
+C:\Users\Vitalina\source\repos\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\bin\Debug\Лабораторна робота 2 , АМП.exe.config
+C:\Users\Vitalina\source\repos\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\bin\Debug\Лабораторна робота 2 , АМП.exe
+C:\Users\Vitalina\source\repos\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\bin\Debug\Лабораторна робота 2 , АМП.pdb
+C:\Users\Vitalina\source\repos\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\bin\Debug\MaterialDesignColors.dll
+C:\Users\Vitalina\source\repos\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Vitalina\source\repos\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\bin\Debug\MaterialSkin.dll
+C:\Users\Vitalina\source\repos\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Vitalina\source\repos\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Vitalina\source\repos\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\obj\Debug\Лабораторна_робота_2___АМП.Form1.resources
+C:\Users\Vitalina\source\repos\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\obj\Debug\Лабораторна_робота_2___АМП.Form2.resources
+C:\Users\Vitalina\source\repos\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\obj\Debug\Лабораторна_робота_2___АМП.Form3.resources
+C:\Users\Vitalina\source\repos\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\obj\Debug\Лабораторна_робота_2___АМП.Properties.Resources.resources
+C:\Users\Vitalina\source\repos\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\obj\Debug\Лабораторна робота 2 , АМП.csproj.GenerateResource.cache
+C:\Users\Vitalina\source\repos\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\obj\Debug\Лабораторна робота 2 , АМП.csproj.CoreCompileInputs.cache
+C:\Users\Vitalina\source\repos\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\obj\Debug\Лабораторна робота 2 , АМП.csproj.CopyComplete
+C:\Users\Vitalina\source\repos\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\obj\Debug\Лабораторна робота 2 , АМП.exe
+C:\Users\Vitalina\source\repos\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\obj\Debug\Лабораторна робота 2 , АМП.pdb
+C:\Users\Vitalina\source\repos\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\obj\Debug\Лабораторна робота 2 , АМП.csprojAssemblyReference.cache
+C:\Users\Vitalina\source\repos\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\bin\Debug\EntityFramework.dll
+C:\Users\Vitalina\source\repos\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vitalina\source\repos\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\bin\Debug\EntityFramework.xml
+C:\Users\Vitalina\source\repos\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vitas\Desktop\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\bin\Debug\Лабораторна робота 2 , АМП.exe.config
+C:\Users\vitas\Desktop\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\bin\Debug\Лабораторна робота 2 , АМП.exe
+C:\Users\vitas\Desktop\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\bin\Debug\Лабораторна робота 2 , АМП.pdb
+C:\Users\vitas\Desktop\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\bin\Debug\EntityFramework.dll
+C:\Users\vitas\Desktop\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vitas\Desktop\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\bin\Debug\MaterialDesignColors.dll
+C:\Users\vitas\Desktop\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\vitas\Desktop\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\bin\Debug\MaterialSkin.dll
+C:\Users\vitas\Desktop\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\bin\Debug\EntityFramework.xml
+C:\Users\vitas\Desktop\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vitas\Desktop\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\vitas\Desktop\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\vitas\Desktop\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\obj\Debug\Лабораторна робота 2 , АМП.csprojAssemblyReference.cache
+C:\Users\vitas\Desktop\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\obj\Debug\Лабораторна_робота_2___АМП.Properties.Resources.resources
+C:\Users\vitas\Desktop\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\obj\Debug\Лабораторна робота 2 , АМП.csproj.GenerateResource.cache
+C:\Users\vitas\Desktop\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\obj\Debug\Лабораторна робота 2 , АМП.csproj.CoreCompileInputs.cache
+C:\Users\vitas\Desktop\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\obj\Debug\Лабораторна робота 2 , АМП.csproj.CopyComplete
+C:\Users\vitas\Desktop\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\obj\Debug\Лабораторна робота 2 , АМП.exe
+C:\Users\vitas\Desktop\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\obj\Debug\Лабораторна робота 2 , АМП.pdb
+C:\Users\vitas\Desktop\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\obj\Debug\Лабораторна_робота_2___АМП.ChangePassword.resources
+C:\Users\vitas\Desktop\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\obj\Debug\Лабораторна_робота_2___АМП.LogIn.resources
+C:\Users\vitas\Desktop\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\obj\Debug\Лабораторна_робота_2___АМП.Registration.resources
+C:\Users\vitas\Desktop\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\obj\Debug\Лабораторна_робота_2___АМП.Menu.resources
+C:\Users\vitas\Desktop\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\Лабораторна робота 2 , АМП\obj\Debug\Лабораторна_робота_2___АМП.Cashdown.resources
